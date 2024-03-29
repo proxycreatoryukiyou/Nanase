@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: proxy-creator-kantan-suugaku-1
+    name: proxy-creator-kantan-suugaku-2
     env: python
     region: Oregon
     plan: free
